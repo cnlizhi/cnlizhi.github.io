@@ -1,12 +1,26 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- **Beijing Outstanding Graduate, 2026.**
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- University of Chinese Academy of Sciences Outstanding Graduate, 2026.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- Excellent Paper of the Year 2025, National Remote Sensing Bulletin, 2026.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
+- **National Scholarship for Doctoral Students, 2025.**
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
+- Outstanding Graduate Student Scholarship of Aerospace Information Research Institute, 2025.
 
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- University of Chinese Academy of Sciences Three Good Student Award, 2024.
+
+- **China University of Geosciences Outstanding Graduate, 2021.**
+
+- China University of Geosciences Academician Scholarship, 2020.
+
+- **National Scholarship for Undergraduate Students, 2019.**
+
+- **National First Prize, Contemporary Undergraduate Mathematical Contest in Modeling, 2019.**
+
+- Honorable Mention, Mathematical Contest in Modeling (MCM/ICM), 2019.
+
+- Third Prize (Hubei Province), Mathematics Competition of Chinese College Students, 2018.
+
+- China University of Geosciences Talent Scholarship, 2018.

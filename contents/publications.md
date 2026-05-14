@@ -1,16 +1,25 @@
-#### Submitted
+- Zhu Han, Jingru Wang, **Zhi Li\***. Subpixel-aware Domain Generalization for Cross-scene Hyperspectral Image Classification, *IEEE International Geoscience and Remote Sensing Symposium*, 2026.
 
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- Nannan Zi, **Zhi Li**, Zhu Han\*. Identifying Ocean Eddy Polarity by a Convolutional Framework with Edge Enhancements, *IEEE International Geoscience and Remote Sensing Symposium*, 2026.
 
-#### Published
+- Michael Ibrahim $^{\dagger}$, Hanqi Zhao $^{\dagger}$, Eli Sennesh, **Zhi Li**, Anqi Wu, Jacob L. Yates, Chengrui Li\*, Hadi Vafaii\*. A Hitchhiker's Guide to Poisson Gradient Estimation, *International Conference on Machine Learning*, 2026.
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- **Zhi Li**, Ke Zheng, Lianru Gao\*, Nannan Zi, Chengrui Li. Feature Reconstruction Guided Fusion Network for Hyperspectral and LiDAR Classification, *IEEE Transactions on Geoscience and Remote Sensing*, 2025.
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- Jiaxin Li, Ke Zheng, Lianru Gao\*, Zhu Han, **Zhi Li**, Jocelyn Chanussot. Enhanced Deep Image Prior for Unsupervised Hyperspectral Image Super-resolution, *IEEE Transactions on Geoscience and Remote Sensing*, 2025.
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- **Zhi Li**, Ke Zheng, Jiaxin Li, Chengrui Li, Lianru Gao\*. Cross-Semantic Heterogeneous Modeling Network for Hyperspectral Image Classification, *IEEE Transactions on Geoscience and Remote Sensing*, 2024.
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- **Zhi Li**, Lianru Gao\*, Ke Zheng, Li Ni. Research Progress of High-resolution Remote Sensing Image Scene Classification, *National Remote Sensing Bulletin*, 2024. [Excellent Paper of the Year 2025]
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- **Zhi Li**, Ke Zheng\*, Longfei Ren, Yi Liu, Lianru Gao. Hyperspectral Image Classification via Inverse Mahalanobis Attention Network, *IEEE International Geoscience and Remote Sensing Symposium*, 2024.
 
+- Zhu Han, Shuyi Xu, Lianru Gao\*, **Zhi Li**, Bing Zhang. GRetNet: Gaussian Retentive Network for Hyperspectral Image Classification, *IEEE Geoscience and Remote Sensing Letters*, 2024.
+
+- **Zhi Li**, Ke Zheng\*, Li Ni, Lianru Gao. Level Merging Attention based Dense Network for Remote Sensing Image Scene Classification, *International Conference on Remote Sensing, Mapping and Geographic Information Systems*, 2023.
+
+- Jiaxin Li, Ke Zheng, **Zhi Li**, Lianru Gao\*, Xiuping Jia. X-shaped Interactive Autoencoders with Cross-Modality Mutual Learning for Unsupervised Hyperspectral Image Super-resolution, *IEEE Transactions on Geoscience and Remote Sensing*, 2023.
+
+- Meiqiao Bi, Minghua Wang, **Zhi Li**, Danfeng Hong\*. Vision Transformer with Contrastive Learning for Remote Sensing Image Scene Classification, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2023.
+
+- Jiaxin Li, Ke Zheng\*, Wengu Liu, **Zhi Li**, Haoyang Yu, Li Ni. Model-guided Coarse-to-fine Fusion Network for Unsupervised Hyperspectral Image Super-resolution, IEEE Geoscience and Remote Sensing Letters, 2023.
