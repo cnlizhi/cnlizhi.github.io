@@ -1,17 +1,13 @@
-
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+Zhi Li received the B.Eng. degree in remote sensing science and technology from School of Geography and Information Engineering, China University of Geosciences, Wuhan, China, in 2021, and the Ph.D. degree in cartography and geography information system from the Key Laboratory of Computational Optical Imaging Technology, Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, China, in 2026.
 
 #### Contact
 
-Email: user[at]fas.harvard.edu
+Email: lizhi21@mails.ucas.ac.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D., Cartography and Geography Information System, Aerospace Information Research Institute, Chinese Academy of Sciences, 2021-2026.\
+B.Eng., Remote Sensing Science and Technology, China University of Geosciences, 2017-2021.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Multimodel, Hyperspectral Remote Sensing.
 
